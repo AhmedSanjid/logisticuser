@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/logisticuser/static/css/main.accbc4e6.css",
+    "main.js": "/logisticuser/static/js/main.40c6c8fb.js",
+    "static/js/453.ca6ded76.chunk.js": "/logisticuser/static/js/453.ca6ded76.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/logisticuser/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/logisticuser/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/logisticuser/index.html",
+    "main.accbc4e6.css.map": "/logisticuser/static/css/main.accbc4e6.css.map",
+    "main.40c6c8fb.js.map": "/logisticuser/static/js/main.40c6c8fb.js.map",
+    "453.ca6ded76.chunk.js.map": "/logisticuser/static/js/453.ca6ded76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.accbc4e6.css",
+    "static/js/main.40c6c8fb.js"
+  ]
+}
